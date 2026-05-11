@@ -15,7 +15,7 @@ This project uses a modular Python structure with separate files for the story, 
 | Mohamed Alkarbi | Core Engine + Integration / Cybersecurity Support | Not provided |
 | Abdullateef Alkhurafi | Core Engine + Integration | Abdullateef29 |
 | Abdulaziz Alqllaf | Story + Gameplay Systems | bo3zoo |
-| Natnael Dechassa | Story + Gameplay Systems | Not provided |
+| Natnael Dechassa | Story + Gameplay Systems | natid205-lang |
 | Mohammad alajmi | Challenges + Cybersecurity | Mohammadalajmi1|
 | Jaber Alshammari | Challenges + Cybersecurity | jabermishall |
 
